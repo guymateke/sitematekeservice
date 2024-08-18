@@ -1,0 +1,17 @@
+<?php 
+$_POST=['nom'];
+$_POST=['email'];
+$_POST=['message'];
+
+$con->PDO('mysql:host=localhost;dbname=test', $user, $pass);
+$rp=$con->prepare("INSERT INTO " )
+
+
+
+
+
+
+
+
+
+?>
